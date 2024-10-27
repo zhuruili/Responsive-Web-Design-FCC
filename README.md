@@ -2,6 +2,9 @@
 
 Here is a record of the knowledge I gained and the code I submitted during my Free Code Camp studies.
 
+[![platform](https://img.shields.io/badge/Free%20Code%20Camp-blue)](https://www.freecodecamp.org/)
+![language](https://img.shields.io/badge/language-HTML_CSS-orange)
+
 仓库记录着我在"FreeCodeCamp"学习其中的"Responsive Web Design"章节时留下的痕迹。
 
 ---
@@ -22,6 +25,9 @@ Here is a record of the knowledge I gained and the code I submitted during my Fr
 
 - [**ColorMarkers**](https://github.com/zhuruili/Responsive-Web-Design-FCC/blob/main/ColorMarkers/index.html)  
 通过创建一组彩色笔学习CSS色彩。
+
+- [**RegistrationForm**](https://github.com/zhuruili/Responsive-Web-Design-FCC/blob/main/RegistrationForm/index.html)  
+通过构建注册页面来学习HTML表单。学习如何控制人们可以在表单中键入哪些类型的数据，以及一些用于设置页面样式的新CSS工具。
 
 ### 实践项目
 
