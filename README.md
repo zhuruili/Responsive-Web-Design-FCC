@@ -31,7 +31,12 @@ Here is a record of the knowledge I gained and the code I submitted during my Fr
 
 ### 实践项目
 
-pass
+在这部分的内容的学习过程中，FreeCodeCamp并不会提供一步步的代码指示，需要自己看用户需求与测试点自己编写程序完成。同时这部分的内容也是FreeCodeCamp颁发证书的凭据。
+
+这部分的内容在'PracticalProjects'文件夹下，具体内容目录如下：
+
+- **SurveyForm**  
+本实践项目是我为我最爱的游戏‘Apex Legends’设计的一封调查问卷。问卷中的内容多少有点夹带私货~~(bushi)~~。虽然Apex的现状很糟心，但是我真的希望它能变得越来越好。
 
 ---
 

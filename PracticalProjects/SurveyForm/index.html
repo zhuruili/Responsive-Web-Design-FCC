@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Survey Form</title>
+        <link href="styles.css" rel="stylesheet"/>
+    </head>
+</html>
+<body>
+    <div class="Survey title">
+        <h1 id="title">Apex Gaming Experience Survey</h1>
+    </div>
+    <div class="Survey description">
+        <p id="description">Thank you for playing our game. We would like to hear your feedback.<br>(Oh, I never believe the official nonsense of the game)</p>
+    </div>
+    <div class="Survey Form">
+        <form id="survey-form">
+            <div class="personal information">
+                <label for="name" id="name-label">Name: <input id="name" type="text" placeholder="Enter your name..." required /> </label>
+                <label for="email" id="email-label">Email: 
+                    <input id="email" type="email" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" placeholder="Enter your email..." />
+                </label>
+                <label for="number" id="number-label">Age: 
+                    <input id="number" type="number" min="10" max="100" required pattern="\d+" placeholder="Enter your age..." />
+                </label>
+            </div>
+            <div class="Gaming information">
+                <p>Which game do you like most?</p>
+                <select id="dropdown">
+                    <option value="Apex Legends">Apex Legends</option>
+                    <option value="Fortnite">Fortnite</option>
+                    <option value="PUBG">PUBG</option>
+                    <option value="Call of Duty">Call of Duty</option>
+                    <option value="Valorant">Valorant</option>
+                    <option value="CSGO/CS2">CSGO/CS2</option>
+                </select>
+                <fieldset>
+                    <legend>What type of player do you belong to?</legend>
+                    <label for="player-type1">
+                        <input id="player-type1" type="radio" name="player-type" value="Casual" checked /> Casual
+                    </label>
+                    <label for="player-type2">
+                        <input id="player-type2" type="radio" name="player-type" value="Professional" /> Professional
+                    </label>
+                    <label for="player-type3">
+                        <input id="player-type3" type="radio" name="player-type" value="Streamer" /> Streamer
+                    </label>
+                </fieldset>
+                <fieldset>
+                    <legend>Which of the following changes/situations to the game have broken your heart?</legend>
+                    <label for="change1"><input id="change1" type="checkbox" name="changes" value="Cheaters" /> Cheaters rush everywhere.</label>
+                    <label for="change2"><input id="change2" type="checkbox" name="changes" value="Alone" /> Friends are leaving one after another.</label>
+                    <label for="change3"><input id="change3" type="checkbox" name="changes" value="Noob" /> This game is not very friendly to newcomers.</label>
+                    <label for="change4"><input id="change4" type="checkbox" name="changes" value="Balance" /> The game is not balanced.</label>
+                    <label for="change5"><input id="change5" type="checkbox" name="changes" value="Guns" /> You ruined my favorite firearm.</label>
+                    <label for="change6"><input id="change6" type="checkbox" name="changes" value="Rank" /> Changes to the RANKING mechanism/rewards.</label>
+                    <label for="change7"><input id="change7" type="checkbox" name="changes" value="Others" /> Others</label>
+                </fieldset>
+            </div>
+            <div class="Feedback">
+                <label for="feedback" id="feedback-label">Any other feedback or suggestions?</label>
+                <textarea id="feedback" placeholder="Enter your feedback here..."></textarea>
+            </div>
+            <button type="submit" id="submit">Submit</button>
+        </form>
+    </div>
+</body>
