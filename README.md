@@ -35,7 +35,7 @@ Here is a record of the knowledge I gained and the code I submitted during my Fr
 
 这部分的内容在'PracticalProjects'文件夹下，具体内容目录如下：
 
-- **SurveyForm**  
+- [**SurveyForm**](https://github.com/zhuruili/Responsive-Web-Design-FCC/blob/main/PracticalProjects/SurveyForm/index.html)  
 本实践项目是我为我最爱的游戏‘Apex Legends’设计的一封调查问卷。问卷中的内容多少有点夹带私货~~(bushi)~~。虽然Apex的现状很糟心，但是我真的希望它能变得越来越好。
 
 ---
