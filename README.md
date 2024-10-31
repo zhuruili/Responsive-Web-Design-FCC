@@ -32,6 +32,9 @@ Here is a record of the knowledge I gained and the code I submitted during my Fr
 - [**RothkoPainting**](https://github.com/zhuruili/Responsive-Web-Design-FCC/blob/main/RothkoPainting/index.html)  
 使用CSS和盒子模型，创作罗斯科风格的矩形艺术作品。
 
+- [**PhotoGallery**](https://github.com/zhuruili/Responsive-Web-Design-FCC/blob/main/PhotoGallery/index.html)  
+通过创建照片集学习CSS弹性盒子。
+
 ### 实践项目
 
 在这部分的内容的学习过程中，FreeCodeCamp并不会提供一步步的代码指示，需要自己看用户需求与测试点自己编写程序完成。同时这部分的内容也是FreeCodeCamp颁发证书的凭据。
