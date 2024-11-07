@@ -38,6 +38,9 @@ Here is a record of the knowledge I gained and the code I submitted during my Fr
 - [**NutritionLabel**](https://github.com/zhuruili/Responsive-Web-Design-FCC/blob/main/NutritionLabel/index.html)  
 使用排版来创建营养标签网页。学习如何使用 CSS 设置文本样式、调整行高和定位文本。
 
+- [**Quiz**](https://github.com/zhuruili/Responsive-Web-Design-FCC/blob/main/Quiz/index.html)  
+建立一个测验网页。无障碍让网页适于所有人使用。
+
 ### 实践项目
 
 在这部分的内容的学习过程中，FreeCodeCamp并不会提供一步步的代码指示，需要自己看用户需求与测试点自己编写程序完成。同时这部分的内容也是FreeCodeCamp颁发证书的凭据。
