@@ -1,0 +1,109 @@
+body {
+    font-family: "Songti SC", serif;
+    line-height: 1.8;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+header {
+    background: #2c3e50;
+    color: #ecf0f1;
+    padding: 0.5rem 0;
+    text-align: center;
+    border-bottom: 4px solid #e74c3c;
+    height: 125px;
+}
+
+header > h1, header > h2 {
+    margin: 0;
+    font-size: 2.4rem;
+}
+
+main {
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.profile {
+    display: flex;
+    align-items: flex-start;
+    background: #fff;
+    margin: 1.5rem 0;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+
+figure {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0;
+    padding-top: 1.5rem;
+    text-align: center;
+}
+
+#image {
+    max-width: 100%;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto;
+}
+
+.description {
+    flex: 1;
+}
+
+#img-caption {
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.biography, .works, .quotes {
+    background: #fff;
+    margin: 1.5rem 0;
+    padding: 0.8rem;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    border-bottom: 2px solid #e74c3c;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    font-size: 1.75rem;
+}
+
+p, ul, blockquote {
+    margin: 1rem 0;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+}
+
+blockquote {
+    font-style: italic;
+    color: #555;
+    border-left: 4px solid #3f3b3b;
+    padding-left: 1rem;
+    margin-left: 0;
+    border-radius: 2px;
+}
+
+footer {
+    background: #2c3e50;
+    color: #ecf0f1;
+    text-align: center;
+    padding: 1rem 0;
+    position: fixed;
+    height: 25px;
+    width: 100%;
+    bottom: 0;
+}

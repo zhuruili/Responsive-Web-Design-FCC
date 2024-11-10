@@ -50,6 +50,9 @@ Here is a record of the knowledge I gained and the code I submitted during my Fr
 - [**SurveyForm**](https://github.com/zhuruili/Responsive-Web-Design-FCC/blob/main/PracticalProjects/SurveyForm/index.html)  
 本实践项目是我为我最爱的游戏‘Apex Legends’设计的一封调查问卷。问卷中的内容多少有点夹带私货~~(bushi)~~。虽然Apex的现状很糟心，但是我真的希望它能变得越来越好。
 
+- [**TributePage**](https://github.com/zhuruili/Responsive-Web-Design-FCC/blob/main/PracticalProjects/TributePage/index.html)  
+本实践项目是为我最敬佩的作家鲁迅先生设计的一面致敬页。迅哥儿的文字真的是一步步长大才一句句读懂。
+
 ---
 
 > [!Important]
