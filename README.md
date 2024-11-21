@@ -44,6 +44,9 @@ Here is a record of the knowledge I gained and the code I submitted during my Fr
 - [**BalanceSheet**](https://github.com/zhuruili/Responsive-Web-Design-FCC/blob/main/BalanceSheet/index.html)  
 通过创建资产负债表学习CSS伪选择器。
 
+- [**CatPainting**](https://github.com/zhuruili/Responsive-Web-Design-FCC/blob/main/CatPainting/index.html)  
+通过创建一幅猫咪绘画学习如何使用绝对定位、z-index 属性和 transform 属性。
+
 ### 实践项目
 
 在这部分的内容的学习过程中，FreeCodeCamp并不会提供一步步的代码指示，需要自己看用户需求与测试点自己编写程序完成。同时这部分的内容也是FreeCodeCamp颁发证书的凭据。
